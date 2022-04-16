@@ -1,0 +1,8 @@
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\bin\Release\SampLocation.dll
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\bin\Release\SampLocation.pdb
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\bin\Release\SampLocation.xml
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\obj\Release\SampLocation.Resources.resources
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\obj\Release\SampLocation.vbproj.GenerateResource.Cache
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\obj\Release\SampLocation.dll
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\obj\Release\SampLocation.xml
+c:\users\destroyer\documents\visual studio 2015\Projects\SampLocation\SampLocation\obj\Release\SampLocation.pdb
