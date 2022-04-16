@@ -19,3 +19,5 @@ Well, this plugin is very similar, apart from the area it also shows you the cit
 ![PreviewImg](https://github.com/DestroyerDarkNess/SAMPLocation/blob/main/test.png?raw=true)
 
 
+- How to create an injectable plugin in .NET : [Unmanaged.NET](https://github.com/DestroyerDarkNess/Unmanaged.Net)
+
